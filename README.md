@@ -41,7 +41,7 @@
    Converse com o [@BotFather](https://t.me/BotFather), crie um bot e copie o token gerado.
 
 2. **Configure o script**  
-   - Abra o arquivo `envio_mensagens.py`  
+   - Abra o arquivo `mensageiro.py`  
    - Substitua a variável `TOKEN` pelo seu token do bot Telegram.
 
 3. **Prepare o arquivo de mensagens JSON**  
