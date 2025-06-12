@@ -53,3 +53,29 @@
   "2": "📅 *Dia 2: Foco e força!* \n\n{DIA_SEMANA} chegou, aproveite o dia {DIA} para crescer."
   // ... até o dia 31
 }
+
+---
+
+## 👤 Autor
+
+**Carlos Henrique Tourinho Santana**
+Desenvolvedor Backend, DevOps e Integrador de Sistemas embarcados, com sólida experiência em **automação com Shell Script, Python, C e C++**. Atua no desenvolvimento de soluções para **ESP32, Arduino e módulos GSM**, além de sistemas web com **PHP**.
+
+Especialista em **bots para Telegram**, **monitoramento de servidores Linux**, automação de tarefas críticas e criação de ferramentas inteligentes para segurança e produtividade.
+
+Criador do projeto **To Bem Informado**, que entrega mensagens diárias com carinho, inteligência e presença digital.
+
+📍 *Salvador, Bahia – Brasil*
+📫 Telegram: [@henriquetourinho](https://t.me/henriquetourinho)
+🌐 Site: [henriquetourinho.com](https://henriquetourinho.com)
+📧 E-mail: [henriquetourinho@riseup.net](mailto:henriquetourinho@riseup.net)
+🐦 Twitter/X: [x.com/ryckybrasil](https://x.com/ryckybrasil)
+📸 Instagram: [@henriquetourinhooficial](https://www.instagram.com/henriquetourinhooficial)
+
+---
+
+
+## 📄 Licença
+
+Distribuído sob a licença MIT.
+© 2025 Carlos Henrique Tourinho Santana.
